@@ -1,3 +1,9 @@
+"""
+- made by Till Preidt
+- requires folders "samples" and "figures"
+- for executing just type the names of the classes you wish to compare as string-arguments into the function call in line 271
+"""
+
 import pandas as pd
 from langdetect import detect
 import matplotlib.pyplot as plt
